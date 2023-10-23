@@ -3,15 +3,15 @@
 <!--
 **mayankpshahi/mayankpshahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/1600/0*3N994lFVAwmVTsYJ.gif" width="500"/>
+<img align="right" alt="GIF" src="https://miro.medium.com/max/1600/0*3N994lFVAwmVTsYJ.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I am exploring data structures and algorithms.
+- 🔭 &nbsp; Exploring new ideas in startup world.
 - 🤔 &nbsp; Curious about new technologies and developing software solutions .
-- 🎓 &nbsp; I’m currently pursuing my masters in Artificial Intelligence from IIIT Lucknow.
-- 💼 &nbsp; Worked as Assistant Financial Analyst at Tata Consultancy Services.
-- 🌱 &nbsp; Enthusiast in web development and Computer Vision and Natural Language Processing.
+- 🎓 &nbsp; Masters in Artificial Intelligence from IIIT Lucknow.
+- 💼 &nbsp; Software Engineer at 'mbd.
+- 🌱 &nbsp; Web develpment, AWS, AI based solutions.
 - ☕ &nbsp;  I believe, the nature is the best solution for any stress. 
 - ☕ &nbsp;  Fun fact: Prefer Linux over Windows 🙃
 
