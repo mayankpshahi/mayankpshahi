@@ -11,13 +11,13 @@
 - 🤔 &nbsp; Curious about new technologies and developing software solutions .
 - 🎓 &nbsp; Masters in Artificial Intelligence from IIIT Lucknow.
 - 💼 &nbsp; Software Engineer at 'mbd.
-- 🌱 &nbsp; Web develpment, AWS, AI based solutions.
+- 🌱 &nbsp; Web development, AWS, AI based solutions.
 - ☕ &nbsp;  I believe, the nature is the best solution for any stress. 
 - ☕ &nbsp;  Fun fact: Prefer Linux over Windows 🙃
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  Javascript | Python | Java
+- 💻 &nbsp;  Python | Javascript | Java
 - 🌐 &nbsp;  HTML | CSS | NodeJS | ReactJS | ExpressJS
 - 🛢 &nbsp;  MySQL |  MongoDB
 - 🔧 &nbsp;  VScode | Git | Google Colab | Spyder | Jupyter Notebook 
